@@ -13,12 +13,7 @@ class Home extends CI_Controller{
 		$this->load->view('template/footer',$data);
 	}
 
-	public function git(){
-		$data['judul']='Home';
-		$this->load->view('template/header',$data);
-		$this->load->view('home/index',$data);
-		$this->load->view('template/footer',$data);
-	}
+	
 
 	
 }
