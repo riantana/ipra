@@ -8,12 +8,29 @@ text-align: right;
 
 td{
 	vertical-align: middle;
+	color: black;
 }
 
 thead{
-	background-color:#ADD8E6;
+	color: black;
 }
 tr:hover td{
 	background-color:#E6E6FA;
+}
+
+thead.biru{
+	background-color:#00BFFF;
+}
+
+thead.hijau{
+	background-color: #00FF7F;
+}
+
+thead.kuning{
+	background-color: #FFFF00;
+}
+
+thead.merah{
+	background-color: #FF0000;
 }
 

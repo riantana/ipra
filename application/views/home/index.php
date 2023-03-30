@@ -13,7 +13,7 @@
             <div class="card-body">
                 <div class="col-sm-12">
                     <table class="table">
-                        <thead>
+                        <thead class="biru">
                             <tr>
                                 <th rowspan="2">Sumber Dana</th>
                                 <th  rowspan="2">Keterangan</th>
@@ -100,4 +100,111 @@
        </div>
     </section>
 
+     <section class="row">
+        <div class="card">
+            <div class="card-body">
+                <div class="col-sm-12">
+                    <table class="table">
+                        <thead class="hijau">
+                            <tr>
+                                <th rowspan="2">Sumber Dana</th>
+                                <th  rowspan="2">Keterangan</th>
+                                <th >Jenis Belanja</th>
+                            </tr>
+                            <tr>
+                                <th>Harwat</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td rowspan="3">DIPA</td>
+                                <td>Pagu</td>
+                                <td class="rp">53</td>
+                            </tr>
+                            <tr>
+                                <td>Realisasi</td>
+                                <td class="rp">53</td>
+                            </tr> 
+                            <tr>
+                                <td>Daya Serap</td>
+                                <td class="rp">53</td>
+                            </tr>   
+
+                             <tr>
+                                <td rowspan="3">RM</td>
+                                <td>Pagu</td>
+                                <td class="rp">53</td>
+                            </tr>
+                            <tr>
+                                <td>Realisasi</td>
+                                <td class="rp">53</td>
+                            </tr> 
+                            <tr>
+                                <td>Daya Serap</td>
+                                <td class="rp">53</td>
+                            </tr> 
+
+                             <tr>
+                                <td rowspan="3">PNBP</td>
+                                <td>Pagu</td>
+                                <td class="rp">53</td>
+                            </tr>
+                            <tr>
+                                <td>Realisasi</td>
+                                <td class="rp">53</td>
+                            </tr> 
+                            <tr>
+                                <td>Daya Serap</td>
+                                <td class="rp">53</td>
+                            </tr>    
+                           </tbody>
+                    </table>
+                </div>
+           </div>
+       </div>
+    </section>
+
+       <section class="row">
+        <div class="card">
+            <div class="card-body">
+                <div class="col-sm-12">
+                    <table class="table">
+                        <thead class="kuning">
+                            <tr>
+                                <th>Satker</th>
+                                <th>Sumber Dana</th>
+                                <th>Kegiatan</th>
+                                <th>Kontrak</th>
+                                <th>Pagu</th>
+                                <th>Realisasi</th>
+                                <th>Daser (%)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td rowspan="3">Srena</td>
+                            </tr>
+                            <tr>
+                                <td>RM</td>
+                                <td>7</td>
+                                <td>1</td>
+                                <td class="rp">2.000.000.000</td>
+                                <td class="rp">1.000.000.000</td>
+                                <td>50.00</td>
+                            </tr>
+                            <tr>
+                                <td>PNBP</td>
+                                <td>7</td>
+                                <td>1</td>
+                                <td class="rp">2.000.000.000</td>
+                                <td class="rp">1.000.000.000</td>
+                                <td>50.00</td>
+                            </tr>
+                           
+                        </tbody>
+                    </table>
+                </div>
+           </div>
+       </div>
+    </section>
     
