@@ -1,0 +1,19 @@
+th{
+	text-align: center;
+}
+
+td.rp{
+text-align: right;
+}
+
+td{
+	vertical-align: middle;
+}
+
+thead{
+	background-color:#ADD8E6;
+}
+tr:hover td{
+	background-color:#E6E6FA;
+}
+
