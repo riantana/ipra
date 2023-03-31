@@ -59,50 +59,36 @@
                 </a>
                 <ul class="submenu ">
                     <li class="submenu-item ">
-                        <a href="component-alert.html">Alert</a>
+                        <a href="component-alert.html">Design DIPA</a>
+                    </li>
+                     <li class="submenu-item ">
+                        <a href="component-alert.html">Data Satker</a>
                     </li>
                     <li class="submenu-item ">
-                        <a href="component-badge.html">Badge</a>
+                        <a href="component-alert.html">Data Pimpinan</a>
                     </li>
                     <li class="submenu-item ">
-                        <a href="component-breadcrumb.html">Breadcrumb</a>
+                        <a href="component-alert.html">Satker</a>
                     </li>
                     <li class="submenu-item ">
-                        <a href="component-button.html">Button</a>
+                        <a href="component-alert.html">Kode Program</a>
                     </li>
                     <li class="submenu-item ">
-                        <a href="component-card.html">Card</a>
+                        <a href="component-alert.html">Kode Kegiatan</a>
                     </li>
                     <li class="submenu-item ">
-                        <a href="component-carousel.html">Carousel</a>
+                        <a href="component-alert.html">Kode Output</a>
                     </li>
                     <li class="submenu-item ">
-                        <a href="component-collapse.html">Collapse</a>
+                        <a href="component-alert.html">Kode Sub Output</a>
                     </li>
                     <li class="submenu-item ">
-                        <a href="component-dropdown.html">Dropdown</a>
+                        <a href="component-alert.html">Kode Komponen</a>
                     </li>
                     <li class="submenu-item ">
-                        <a href="component-list-group.html">List Group</a>
+                        <a href="component-alert.html">Kode Akun</a>
                     </li>
-                    <li class="submenu-item ">
-                        <a href="component-modal.html">Modal</a>
-                    </li>
-                    <li class="submenu-item ">
-                        <a href="component-navs.html">Navs</a>
-                    </li>
-                    <li class="submenu-item ">
-                        <a href="component-pagination.html">Pagination</a>
-                    </li>
-                    <li class="submenu-item ">
-                        <a href="component-progress.html">Progress</a>
-                    </li>
-                    <li class="submenu-item ">
-                        <a href="component-spinner.html">Spinner</a>
-                    </li>
-                    <li class="submenu-item ">
-                        <a href="component-tooltip.html">Tooltip</a>
-                    </li>
+                    
                 </ul>
             </li>
             
