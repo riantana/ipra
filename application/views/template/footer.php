@@ -11,8 +11,8 @@
             </footer>
         </div>
     </div>
-    <script src="assets/js/bootstrap.js"></script>
-    <script src="assets/js/app.js"></script>
+    <script src="<?=base_url();?>assets/js/bootstrap.js"></script>
+    <script src="<?=base_url();?>assets/js/app.js"></script>
 </body>
 
 </html>
