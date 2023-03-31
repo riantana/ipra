@@ -33,4 +33,10 @@ thead.kuning{
 thead.merah{
 	background-color: #FF0000;
 }
+.text-right{
+	text-align: right;
+}
 
+a.dropdown-item:hover{
+	color: red;
+}
