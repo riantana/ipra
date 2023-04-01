@@ -15,9 +15,8 @@
 
                 <button type="button" class="btn btn-primary btn-sm dropdown-toggle mb-3" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Menu</button>
                  <div class="dropdown-menu" style="">
-                    <a class="dropdown-item" href="#">Option 1</a>
-                    <a class="dropdown-item" href="#">Option 2</a>
-                    <a class="dropdown-item" href="#">Option 3</a>
+                    <a class="dropdown-item" href="#">Excel</a>
+                    <a class="dropdown-item" href="#">PDF</a>
                   </div>
                                         
                     <table class="table">
@@ -115,9 +114,8 @@
 
                  <button type="button" class="btn btn-primary btn-sm dropdown-toggle mb-3" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Menu</button>
                  <div class="dropdown-menu" style="">
-                    <a class="dropdown-item" href="#">Option 1</a>
-                    <a class="dropdown-item" href="#">Option 2</a>
-                    <a class="dropdown-item" href="#">Option 3</a>
+                    <a class="dropdown-item" href="#">Excel</a>
+                    <a class="dropdown-item" href="#">PDF</a>
                   </div>
                     <table class="table">
                         <thead class="hijau">
@@ -185,9 +183,8 @@
                 <div class="col-sm-12">
                      <button type="button" class="btn btn-primary btn-sm dropdown-toggle mb-3" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Menu</button>
                  <div class="dropdown-menu" style="">
-                    <a class="dropdown-item" href="#">Option 1</a>
-                    <a class="dropdown-item" href="#">Option 2</a>
-                    <a class="dropdown-item" href="#">Option 3</a>
+                    <a class="dropdown-item" href="#">Excel</a>
+                    <a class="dropdown-item" href="#">PDF</a>
                   </div>
                     <table class="table">
                         <thead class="kuning">
